@@ -21,6 +21,9 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=swampplays11&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" />
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
