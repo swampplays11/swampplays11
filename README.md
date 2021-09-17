@@ -1,6 +1,5 @@
 ### Hi there I'm Swamppplays11👋
 
-<!--
 I am a Developer studying Computer Science,Engineering, Backend,and Frontend. On my free time I make discord bots in nodejs. I am also a Unverified Bot Developer and I also like to work with friends on projects.  I am a He/Him
 
 You can reach me on discord with swampplays11#5380
